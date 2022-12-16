@@ -6,5 +6,5 @@ Visualização do site: https://meuprimeirositeseuze.netlify.app
 ## Screenshots
 
 <p align="center">
-  <img src="./img/PaginaDesktop.png" align="center"></img>
+  <img src="images/screenshot.do.site.png" align="center"></img>
 </p>
