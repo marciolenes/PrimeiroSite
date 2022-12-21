@@ -1,5 +1,5 @@
 # Primeiro Site
-Meu primeiro trabalho como freelancer [em 2022] ao concluir minha faculdade!
+Meu primeiro trabalho como freelancer [em 2022]!
 
 Visualização do site: https://meuprimeirositeseuze.netlify.app
 <br><br>
